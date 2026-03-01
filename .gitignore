@@ -4,3 +4,4 @@ apps/desktop/dist/
 *.log
 .vscode
 .cache
+apps/desktop/release
